@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">[SQL and Relational Databases 101]<br>[Oracle Cloud Infrastructure Foundations Associate]</p>
+<p align="left">
+    <a href="https://courses.cognitiveclass.ai/certificates/46510786f60342568f90327f8b676c6c#">SQL and Relational Databases 101</a><br>
+    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5425891&trackId=OCI2024FNDCFA&key=0ac27a973da0e92005e02c9dd5d3b719f40f19e6">Oracle Cloud Infrastructure Foundations Associate</a>
+</p>
 
 ###
 
