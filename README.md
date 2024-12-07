@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Gem Ian Galleto</h1>
 
-<!--
-**gemgalleto22/gemgalleto22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Freelance artist studying BS Entertainment and Multimedia Computing, specializing in Game Development at New Era University.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Certifications</h2>
+
+###
+
+<p align="left">[SQL and Relational Databases 101]<br>[Oracle Cloud Infrastructure Foundations Associate]</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<p align="left">Game Development<br>Art<br>Basic Programming</p>
+
+###
